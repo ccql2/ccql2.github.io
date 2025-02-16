@@ -5,7 +5,7 @@
 
 ![辣椒图片](https://pic.vjshi.com/2023-05-26/cdbd0139cf4b4cbe87c6f89d46741446/online/main.jpg?x-oss-process=style/w342_h192_center)
 
-### 所属片区: 四川片区
+### 所属片区: 第一片区
 
 [点击查看片区图片](https://example.com/region.jpg)
 
